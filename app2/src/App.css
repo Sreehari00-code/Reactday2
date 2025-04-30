@@ -1,0 +1,28 @@
+#root {
+  
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.boxx{
+text-align: center;
+}
+
+.table{
+    max-width: 80%;
+    margin: 20px auto;
+    background-color: #ec0b0b85;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #82c712;
+    color: white;
+    transition: background-color 0.3s ease;
+    padding: 12px;
+    text-align: center;
+    
+}
+
